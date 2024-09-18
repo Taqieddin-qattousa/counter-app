@@ -47,6 +47,7 @@ button {
 .main-content{
     max-width: 700px;
     max-height: 700px;
+    margin:auto;
    
     
 }
