@@ -44,11 +44,15 @@ button {
     -webkit-text-fill-color: white;
     text-shadow: 0 0 4px black;
 }
+
 .main-content{
-    max-width: 700px;
-    max-height: 700px;
-    margin:auto;
-   
-    
+    max-width: 100vh;
+    max-height: 100vh;
+    margin: auto;
+    background-color: rgb(168, 61, 7,0.5);
+    padding: 10px;
+    border-radius: 22px;
+    border-top-left-radius:5px ;
+    border-bottom-right-radius:5px ;
 }
 
